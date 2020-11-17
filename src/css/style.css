@@ -1,0 +1,13 @@
+/* style.css */
+body{
+    background: lightblue url('../images/baidu.png') center no-repeat;
+}
+
+#root div{
+    width:200px;
+    margin-top:10px;
+    /* transform: rotate(45deg); */
+}
+.a{
+    color:black;
+}
